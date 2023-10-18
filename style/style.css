@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 200px;
+    background-color: #93B5C9;
+}
+
+main{
+    height: 100%;
+    
+}
+
+div{
+    height: 200px;
+    margin: 30px 0;  
+}
+
+main div:first-child{
+    height: 400px;
+    background-color: #AB2849;
+    margin: 0;
+}
+
+section{
+    float: right;
+    background-color: #AB2849;
+    width: 75%;
+    height: 200px;  
+      
+}
+
+
+footer{
+    height: 150px;
+    background-color: #AB2849;
+    margin: 10px 40px;
+}
+
+
+
